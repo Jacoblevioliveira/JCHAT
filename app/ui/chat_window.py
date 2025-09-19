@@ -11,7 +11,7 @@ from PySide6.QtWidgets import (
 
 from ..data_logger import data_logger, log_message, log_ab_trial, export_data, log_survey_responses
 from ..feature_flags import FeatureFlag, enabled_features, feature_settings, get_scripted_convo
-from ..helpers import is_enabled, get_setting_value
+from app.app_helpers import is_enabled
 from ..api_helpers import ChatThread
 from ..constants import APP_TITLE
 from .widgets import MessageBubble, ThinkingBubble

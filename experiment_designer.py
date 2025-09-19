@@ -11,10 +11,10 @@ from PySide6.QtWidgets import (
     QScrollArea
 )
 
-from ..feature_flags import FeatureFlag, FEATURE_GROUPS
-from .ui_components import CollapsibleSection, create_modern_slider, create_modern_checkbox
-from .script_editor import ScriptEditorDialog
-from .survey_builder import SurveyBuilderDialog
+from app.feature_flags import FeatureFlag, FEATURE_GROUPS
+from app.ui.ui_components import CollapsibleSection, create_modern_slider, create_modern_checkbox
+from app.ui.script_editor import ScriptEditorDialog
+from app.ui.survey_builder import SurveyBuilderDialog
 
 class ExperimentDesignerDialog(QDialog):
     def __init__(self, parent=None):

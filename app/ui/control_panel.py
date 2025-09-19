@@ -8,13 +8,13 @@ from PySide6.QtWidgets import (
 
 from app.data_logger import set_features, set_participant_info
 from app.feature_flags import FeatureFlag, enabled_features, FEATURE_GROUPS, feature_settings
-from app.helpers import is_enabled
+from app.app_helpers import is_enabled
 from app.themes import THEMES, get_theme, save_theme_preference, load_theme_preference
 from app.constants import SONA_ID
 from app.ui.ui_components import CollapsibleSection
 from app.ui.tooltip import CustomTooltip, current_tooltip
-from app.ui.dialogs import SettingsDialog
-from app.ui.ConsentDebrief import SonaIdDialog, ConsentDialog
+from app.ui.settings_dialog import SettingsDialog
+from app.ui.ConsentDebrief import ConsentDialog, DebriefDialog
 from app.ui.chat_window import ChatWindow
 from app.help_text import get_feature_tooltip
 
@@ -306,8 +306,8 @@ class ControlPanel(QWidget):
         
         self.hide() 
 
-        sona = SonaIdDialog() 
-        if not sona.exec():
+        dialog = ConsentDialog(self.main_window)
+        if not SONA_ID.exec():
             self.showMaximized()
             return 
         

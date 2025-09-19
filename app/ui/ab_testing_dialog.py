@@ -2,7 +2,7 @@ import time
 from PySide6.QtCore import Qt, QTimer
 from PySide6.QtWidgets import QDialog, QVBoxLayout, QHBoxLayout, QLabel, QFrame, QTextEdit, QPushButton
 
-from app.helpers import is_enabled, get_setting_value
+from app.app_helpers import get_setting_value, is_enabled
 from app.feature_flags import FeatureFlag, feature_settings
 from app.constants import MIN_THINK_TIME_MS, THINK_INTERVAL_MS
 

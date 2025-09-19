@@ -4,10 +4,13 @@ import logging
 from datetime import date
 from openai import OpenAI, OpenAIError
 from PySide6.QtCore import QThread, Signal
+from dotenv import load_dotenv
 
-from .helpers import is_enabled, build_messages
+from .app_helpers import is_enabled, build_messages
 from .feature_flags import FeatureFlag
 from .constants import MODEL
+
+load_dotenv()
 
 log = logging.getLogger(__name__)
 

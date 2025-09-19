@@ -6,12 +6,12 @@ from PySide6.QtWidgets import (
     QSizePolicy, QHBoxLayout, QListWidget, QPushButton, QComboBox, QFileDialog
 )
 
-from app.helpers import is_enabled
+from app.app_helpers import is_enabled
 from app.feature_flags import FeatureFlag, feature_settings
 from app.ui.ui_components import create_modern_slider, create_modern_checkbox
 from app.ui.script_editor import ScriptEditorDialog
 from app.ui.survey_builder import SurveyBuilderDialog
-from app.ui.experiment_designer import ExperimentDesignerDialog
+from experiment_designer import ExperimentDesignerDialog
 
 class SettingsDialog(QDialog):
     def __init__(self, parent=None):
