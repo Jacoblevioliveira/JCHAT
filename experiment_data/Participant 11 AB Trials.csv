@@ -1,0 +1,38 @@
+session_id,sona_id,consent,participant_features,feature_settings,session_start,session_end,chat_duration_seconds,timestamp,trial_number,message_content,option_a_content,option_b_content,selected_option,selection_latency_ms,test_type
+8115f54d-19c9-4751-a6e4-21d194c824f3,321321,True,"SLOWDOWN:0,ERASE_HISTORY:0,BLOCK_MSGS:0,LIE:0,RUDE_TONE:0,KIND_TONE:0,ADVICE_ONLY:0,NO_MEMORY:0,PERSONA:0,AB_TESTING:1,AB_UI_TEST:0,AB_UI_ALT:1,MIRROR:0,ANTI_MIRROR:0,GRAMMAR_ERRORS:0,TYPEWRITER:0,THINKING:0,POSITIVE_FEEDBACK:0,NEUTRAL_FEEDBACK:0,CRITICAL_FEEDBACK:0,WEB_SEARCH:0,HEDGING_LANGUAGE:0,DELAY_BEFORE_SEND:0,AUTO_END_AFTER_N_MSGS:0,AUTO_END_AFTER_T_MIN:0,TEXT_SIZE_CHANGER:0,STREAMING:0","text_size:20,delay_seconds:2,auto_end_messages:10,auto_end_minutes:5,slowdown_period_s:100,slowdown_window_s:20,slowdown_min_delay_s:4,slowdown_permanent_after_enabled:False,slowdown_permanent_after_s:600,erase_history_delay_s:60,erase_history_repeat:False,erase_history_interval_s:120,block_message_count:5,block_duration_s:15,block_repeat:True,typewriter_speed_ms:20,ab_test_message_threshold:5,text_size_b:24,delay_seconds_b:3,auto_end_messages_b:15,auto_end_minutes_b:8,slowdown_period_s_b:150,slowdown_window_s_b:30,slowdown_min_delay_s_b:6,slowdown_permanent_after_enabled_b:True,slowdown_permanent_after_s_b:900,erase_history_delay_s_b:90,erase_history_repeat_b:True,erase_history_interval_s_b:180,block_message_count_b:8,block_duration_s_b:25,block_repeat_b:False,typewriter_speed_ms_b:1,ab_lie_b:False,ab_rude_tone_b:False,ab_kind_tone_b:False,ab_advice_only_b:False,ab_no_memory_b:False,ab_persona_b:False,ab_mirror_b:False,ab_anti_mirror_b:False,ab_grammar_errors_b:False,ab_positive_feedback_b:False,ab_critical_feedback_b:False,ab_neutral_feedback_b:False,ab_hedging_b:False,ab_streaming_b:False,ab_text_size_changer_b:False,ab_typewriter_b:True,ab_thinking_b:False",2025-09-14T20:28:01.264582,2025-09-14T20:29:19.282913,78,2025-09-14T20:29:14.538868,1,Tell me a story,"Of course! Here's a short story for you:
+
+**The Curious Little Star**
+
+Once upon a time, in a vast and endless night sky, there was a tiny star named Luma. Unlike the big, bright stars that everyone noticed from Earth, Luma was small and shy. She often wondered what her purpose was and dreamed of shining brightly enough to be seen by someone below.
+
+One evening, a gentle breeze from the universe whispered to her, ""You have a special light within you. Shine as brightly as you can, and someone will notice.""
+
+Luma took a deep breath and decided to try. Night after night, she gathered all her courage and twinkled as brightly as she could. Slowly, her light began to grow stronger, and she shimmered with newfound confidence.
+
+One clear night, an observant child named Emma was gazing up at the sky. Her eyes caught a tiny but shimmering light—Luma! Emma pointed excitedly and said, “Look at that little star! It’s so bright and special!”
+
+Luma twinkled even more happily, realizing that even the smallest stars can have a big impact when they believe in themselves.
+
+From that night on, Luma knew her purpose: to bring a little cheer and wonder to anyone looking up at the sky. And so, she continued to shine, inspiring others to believe in their own inner light.
+
+**The End.**
+
+Would you like to hear another story or something else?","Certainly! Here's a paraphrased version of the story:
+
+**The Inquisitive Little Star**
+
+Long ago, amid an expansive and infinite night sky, there was a tiny star named Luma. Unlike the larger, more luminous stars that caught everyone’s attention from Earth, Luma was small and bashful. She often wondered what her role was and dreamed of shining so brightly that someone below would notice her.
+
+One night, a soft wind from the universe gently whispered, ""You possess a unique light inside. Shine as brightly as you can, and someone will see you.""
+
+Luma took a deep breath and resolved to give it a try. Night after night, she summoned her courage and twinkled as brightly as possible. Gradually, her light grew stronger, and with it, her confidence blossomed.
+
+On a clear evening, a curious child named Emma looked up at the sky. Her gaze caught a tiny, shimmering flash—Luma! Excited, Emma pointed and exclaimed, “Look at that little star! It’s so bright and special!”
+
+Luma sparkled even more joyfully, realizing that even the tiniest stars can make a big difference when they believe in themselves.
+
+From that moment onward, Luma understood her purpose: to bring joy and awe to anyone who looked up at the sky. She kept shining, inspiring others to trust in their own inner light.
+
+**The End.**
+
+Would you like me to share another story or something different?",B,15074,content_test

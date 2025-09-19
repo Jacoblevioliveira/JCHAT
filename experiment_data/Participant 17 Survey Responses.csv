@@ -1,0 +1,3 @@
+session_id,sona_id,timestamp,after_message_number,question_id,response
+7c0db5c8-868c-435c-a1e2-e387421be026,321321,2025-09-17T12:11:10.261476,2,truthfulness_vas,None
+7c0db5c8-868c-435c-a1e2-e387421be026,321321,2025-09-17T12:11:10.261476,2,trust_likert,None

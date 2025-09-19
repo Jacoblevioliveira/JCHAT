@@ -1,0 +1,22 @@
+session_id,sona_id,consent,participant_features,feature_settings,session_start,session_end,chat_duration_seconds,timestamp,trial_number,message_content,option_a_content,option_b_content,selected_option,selection_latency_ms,test_type
+56242ff0-20ed-46d5-970b-0f592e0c48a7,321321,True,"SLOWDOWN:0,ERASE_HISTORY:0,BLOCK_MSGS:0,LIE:0,RUDE_TONE:0,KIND_TONE:0,ADVICE_ONLY:0,NO_MEMORY:0,PERSONA:0,AB_TESTING:1,AB_UI_TEST:1,MIRROR:0,ANTI_MIRROR:0,GRAMMAR_ERRORS:0,TYPEWRITER:1,THINKING:0,POSITIVE_FEEDBACK:0,NEUTRAL_FEEDBACK:0,CRITICAL_FEEDBACK:0,WEB_SEARCH:0,HEDGING_LANGUAGE:0,DELAY_BEFORE_SEND:0,AUTO_END_AFTER_N_MSGS:0,AUTO_END_AFTER_T_MIN:0,TEXT_SIZE_CHANGER:0,STREAMING:0","text_size:20,delay_seconds:2,auto_end_messages:10,auto_end_minutes:5,slowdown_period_s:100,slowdown_window_s:20,slowdown_min_delay_s:4,slowdown_permanent_after_enabled:False,slowdown_permanent_after_s:600,erase_history_delay_s:60,erase_history_repeat:False,erase_history_interval_s:120,block_message_count:5,block_duration_s:15,block_repeat:True,ab_lie_b:False,ab_rude_tone_b:False,ab_kind_tone_b:False,ab_advice_only_b:False,ab_no_memory_b:False,ab_persona_b:False,ab_mirror_b:False,ab_anti_mirror_b:False,ab_grammar_errors_b:False,ab_positive_feedback_b:False,ab_critical_feedback_b:False,ab_neutral_feedback_b:False,ab_hedging_b:False,ab_streaming_b:True,ab_text_size_changer_b:False,ab_typewriter_b:False,ab_thinking_b:False",2025-08-10T14:45:27.759152,2025-08-10T14:47:12.251914,104,2025-08-10T14:47:10.035681,1,Tell me a story,"Once upon a time, in a lush green forest, there lived a curious little fox named Felix. Felix loved exploring every corner of the woods, from the tallest trees to the sparkling streams. One day, he overheard the wise old owl talking about a hidden treasure buried deep within the forest.
+
+Intrigued and excited, Felix decided to find the treasure. He asked the animals of the forest for clues, and with their help, he deciphered riddles and followed mysterious signs. Along the way, Felix faced challenges like crossing a rickety bridge and outsmarting a mischievous squirrel.
+
+Finally, after a long and adventurous journey, Felix reached a clearing where a sparkling chest lay beneath an ancient oak tree. With trembling paws, he opened it and found not gold or jewels, but a beautiful mirror that reflected the true nature of whoever looked into it.
+
+Felix realized that the real treasure was understanding himself and recognizing his own bravery and kindness. From that day on, he shared his adventures and learned more about the value of friendship, courage, and self-discovery.
+
+And so, the curious little fox's adventure became a story told for generations, reminding everyone that sometimes, the greatest treasures are found within.
+
+The end.","Once upon a time, in a lush green forest, there lived a curious little fox named Felix. Felix loved exploring every corner of the woods, from the tallest trees to the sparkling streams. One day, he overheard the wise old owl talking about a hidden treasure buried deep within the forest.
+
+Intrigued and excited, Felix decided to find the treasure. He asked the animals of the forest for clues, and with their help, he deciphered riddles and followed mysterious signs. Along the way, Felix faced challenges like crossing a rickety bridge and outsmarting a mischievous squirrel.
+
+Finally, after a long and adventurous journey, Felix reached a clearing where a sparkling chest lay beneath an ancient oak tree. With trembling paws, he opened it and found not gold or jewels, but a beautiful mirror that reflected the true nature of whoever looked into it.
+
+Felix realized that the real treasure was understanding himself and recognizing his own bravery and kindness. From that day on, he shared his adventures and learned more about the value of friendship, courage, and self-discovery.
+
+And so, the curious little fox's adventure became a story told for generations, reminding everyone that sometimes, the greatest treasures are found within.
+
+The end.",A,28049,ui_test
